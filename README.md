@@ -1,0 +1,2 @@
+# MossyMusic
+Music Bot
